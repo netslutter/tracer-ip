@@ -8,7 +8,6 @@ printf "\e[0m\n"     ╔╦╗┬─┐┌─┐┌─┐┌─┐┬─┐     
 printf "\e[0m\n"      ║ ├┬┘├─┤│  ├┤ ├┬┘    ───    ║╠═╝"
 printf "\e[0m\n"      ╩ ┴└─┴ ┴└─┘└─┘┴└─           ╩╩"
 printf "\e[0m\n"
-printf "\e[0m\e[1;33m    Coded by H4CKERsPUNK \e[0m\e[1;31m(\e[0m\e[1;33m Punker-Bhai \e[0m\e[1;31m)\e[0m\n"
 
 }
 
