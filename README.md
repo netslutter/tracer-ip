@@ -17,10 +17,12 @@ cd $HOME
 apt update
 apt upgrade -y
 apt install git -y
-git clone https://github.com/Punker-Bhai/tracer-ip.git
+git clone https://github.com/hackerpunk/tracer-ip.git
 cd tracer-ip
 bash ip.sh
 ```
 <p align="center">
 <a href="https://linktr.ee/H4CKERsPUNK"><img title="tracer-ip" src="https://github.com/Punker-Bhai/tracer-ip/blob/a602c79e6bba629cfb841c46fa0b94ea77d57de7/Screenshot_20210319-222430~2.png"></a>
 </p>
+
+*****username changed !*****
